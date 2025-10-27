@@ -1,3 +1,3 @@
 ARTHUR
 Mexico
-Meta front end developer
+Meta front end developer.
